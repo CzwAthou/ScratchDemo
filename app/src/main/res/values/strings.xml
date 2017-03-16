@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScratchDemo</string>
+    <string name="scratch_percent">Scratch Percent: %1$.1f </string>
+</resources>
